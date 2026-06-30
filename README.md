@@ -1,3 +1,3 @@
 # Project
 
-Initial project repository.
+This is a daily conversation project.
